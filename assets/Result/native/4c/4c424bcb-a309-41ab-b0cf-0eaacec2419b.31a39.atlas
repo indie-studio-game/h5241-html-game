@@ -1,0 +1,559 @@
+
+td_ui_effect_activity_win.png
+size: 1971,1378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cb/cb_00007
+  rotate: false
+  xy: 2, 1085
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00008
+  rotate: false
+  xy: 2, 792
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00009
+  rotate: false
+  xy: 455, 1085
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00010
+  rotate: false
+  xy: 2, 499
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00011
+  rotate: false
+  xy: 455, 792
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00012
+  rotate: false
+  xy: 908, 1085
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00013
+  rotate: false
+  xy: 2, 206
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00014
+  rotate: false
+  xy: 455, 499
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00015
+  rotate: false
+  xy: 908, 792
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00016
+  rotate: false
+  xy: 1361, 1085
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00017
+  rotate: false
+  xy: 455, 206
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00018
+  rotate: false
+  xy: 908, 499
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/cb/cb_00019
+  rotate: false
+  xy: 1361, 792
+  size: 451, 291
+  orig: 451, 291
+  offset: 0, 0
+  index: -1
+images/glow_bl
+  rotate: false
+  xy: 1814, 1016
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00000
+  rotate: false
+  xy: 2, 19
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00001
+  rotate: false
+  xy: 381, 130
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00002
+  rotate: false
+  xy: 908, 404
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00003
+  rotate: false
+  xy: 1361, 647
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00004
+  rotate: true
+  xy: 1814, 854
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00005
+  rotate: false
+  xy: 164, 19
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00006
+  rotate: false
+  xy: 543, 130
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00007
+  rotate: false
+  xy: 908, 328
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00008
+  rotate: false
+  xy: 1361, 571
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00009
+  rotate: true
+  xy: 1890, 854
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00010
+  rotate: false
+  xy: 705, 130
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00011
+  rotate: false
+  xy: 908, 252
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00012
+  rotate: true
+  xy: 1070, 318
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00013
+  rotate: false
+  xy: 1361, 495
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00014
+  rotate: true
+  xy: 1523, 561
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00015
+  rotate: true
+  xy: 1146, 318
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00016
+  rotate: false
+  xy: 1605, 716
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00017
+  rotate: false
+  xy: 1599, 640
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00018
+  rotate: false
+  xy: 1599, 564
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00019
+  rotate: true
+  xy: 1222, 337
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00020
+  rotate: false
+  xy: 1070, 242
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00021
+  rotate: false
+  xy: 908, 176
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00022
+  rotate: false
+  xy: 1070, 166
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00023
+  rotate: true
+  xy: 1232, 175
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00024
+  rotate: false
+  xy: 381, 54
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00025
+  rotate: false
+  xy: 543, 54
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00026
+  rotate: false
+  xy: 705, 54
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00027
+  rotate: false
+  xy: 867, 100
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00028
+  rotate: false
+  xy: 867, 24
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00029
+  rotate: false
+  xy: 1029, 90
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00030
+  rotate: false
+  xy: 1029, 14
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00031
+  rotate: true
+  xy: 1191, 4
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00032
+  rotate: true
+  xy: 1267, 13
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00033
+  rotate: false
+  xy: 1298, 419
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00034
+  rotate: false
+  xy: 1298, 343
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00035
+  rotate: true
+  xy: 1308, 181
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00036
+  rotate: true
+  xy: 1384, 181
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00037
+  rotate: true
+  xy: 1343, 19
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00038
+  rotate: true
+  xy: 1460, 333
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00039
+  rotate: true
+  xy: 1460, 171
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00040
+  rotate: true
+  xy: 1419, 9
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00041
+  rotate: true
+  xy: 1495, 9
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00042
+  rotate: false
+  xy: 1599, 488
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00043
+  rotate: false
+  xy: 1536, 412
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00044
+  rotate: false
+  xy: 1536, 336
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00045
+  rotate: false
+  xy: 1536, 260
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00046
+  rotate: false
+  xy: 1536, 184
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00047
+  rotate: true
+  xy: 1698, 326
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00048
+  rotate: true
+  xy: 1571, 22
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00049
+  rotate: true
+  xy: 1698, 164
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00050
+  rotate: true
+  xy: 1761, 554
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00051
+  rotate: false
+  xy: 1767, 716
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00052
+  rotate: true
+  xy: 1837, 554
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00053
+  rotate: true
+  xy: 1774, 392
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00054
+  rotate: true
+  xy: 1774, 230
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00055
+  rotate: true
+  xy: 1850, 392
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00056
+  rotate: true
+  xy: 1850, 230
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00057
+  rotate: false
+  xy: 1774, 154
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00058
+  rotate: true
+  xy: 1647, 2
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/liuti/liuti_00059
+  rotate: false
+  xy: 1723, 78
+  size: 160, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+images/win/caihong
+  rotate: true
+  xy: 1814, 1169
+  size: 207, 155
+  orig: 207, 155
+  offset: 0, 0
+  index: -1
+images/win/glow_c
+  rotate: false
+  xy: 2, 95
+  size: 377, 109
+  orig: 377, 109
+  offset: 0, 0
+  index: -1
+images/win/win_zi2
+  rotate: false
+  xy: 1361, 723
+  size: 242, 67
+  orig: 242, 67
+  offset: 0, 0
+  index: -1
+images/xian
+  rotate: false
+  xy: 908, 480
+  size: 307, 17
+  orig: 307, 17
+  offset: 0, 0
+  index: -1
+images/xx_lizi
+  rotate: true
+  xy: 1885, 67
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1

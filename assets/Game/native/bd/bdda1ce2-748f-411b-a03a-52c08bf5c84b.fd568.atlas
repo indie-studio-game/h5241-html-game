@@ -1,0 +1,104 @@
+
+boss_back.png
+size: 146,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects/daijia_00099
+  rotate: true
+  xy: 2, 41
+  size: 54, 69
+  orig: 106, 153
+  offset: 23, 26
+  index: -1
+effects/daijia_00101
+  rotate: false
+  xy: 80, 136
+  size: 60, 73
+  orig: 106, 153
+  offset: 18, 26
+  index: -1
+effects/daijia_00103
+  rotate: true
+  xy: 2, 97
+  size: 59, 76
+  orig: 106, 153
+  offset: 17, 26
+  index: -1
+effects/daijia_00106
+  rotate: false
+  xy: 83, 211
+  size: 60, 78
+  orig: 106, 153
+  offset: 16, 26
+  index: -1
+effects/daijia_00108
+  rotate: true
+  xy: 2, 281
+  size: 57, 79
+  orig: 106, 153
+  offset: 17, 26
+  index: -1
+effects/daijia_00110
+  rotate: false
+  xy: 87, 374
+  size: 57, 81
+  orig: 106, 153
+  offset: 18, 26
+  index: -1
+effects/daijia_00112
+  rotate: true
+  xy: 2, 340
+  size: 56, 83
+  orig: 106, 153
+  offset: 20, 26
+  index: -1
+effects/daijia_00114
+  rotate: true
+  xy: 73, 2
+  size: 54, 69
+  orig: 106, 153
+  offset: 23, 26
+  index: -1
+effects/daijia_00117
+  rotate: true
+  xy: 2, 158
+  size: 60, 76
+  orig: 106, 153
+  offset: 17, 26
+  index: -1
+effects/daijia_00120
+  rotate: false
+  xy: 80, 58
+  size: 59, 76
+  orig: 106, 153
+  offset: 17, 26
+  index: -1
+effects/daijia_00122
+  rotate: true
+  xy: 2, 220
+  size: 59, 78
+  orig: 106, 153
+  offset: 16, 26
+  index: -1
+effects/daijia_00125
+  rotate: false
+  xy: 87, 291
+  size: 57, 81
+  orig: 106, 153
+  offset: 18, 26
+  index: -1
+effects/daijia_00128
+  rotate: true
+  xy: 2, 398
+  size: 57, 83
+  orig: 106, 153
+  offset: 20, 26
+  index: -1
+effects/glowdaiji_00102
+  rotate: true
+  xy: 2, 457
+  size: 121, 129
+  orig: 137, 135
+  offset: 12, 3
+  index: -1

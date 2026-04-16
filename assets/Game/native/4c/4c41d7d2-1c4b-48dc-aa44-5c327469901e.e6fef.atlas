@@ -1,0 +1,174 @@
+
+fx_ui_spine_skillbtn.png
+size: 2014,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang/caihong
+  rotate: false
+  xy: 2, 6
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+guang/glow
+  rotate: false
+  xy: 1905, 228
+  size: 93, 93
+  orig: 99, 99
+  offset: 3, 3
+  index: -1
+guang/guanghuan
+  rotate: false
+  xy: 1805, 223
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0000
+  rotate: false
+  xy: 1805, 323
+  size: 124, 124
+  orig: 277, 213
+  offset: 78, 39
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0001
+  rotate: true
+  xy: 954, 28
+  size: 158, 151
+  orig: 277, 213
+  offset: 66, 28
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0002
+  rotate: true
+  xy: 420, 2
+  size: 182, 172
+  orig: 277, 213
+  offset: 53, 16
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0003
+  rotate: false
+  xy: 594, 4
+  size: 201, 180
+  orig: 277, 213
+  offset: 43, 15
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0004
+  rotate: false
+  xy: 1291, 2
+  size: 218, 186
+  orig: 277, 213
+  offset: 34, 13
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0005
+  rotate: false
+  xy: 1760, 14
+  size: 230, 191
+  orig: 277, 213
+  offset: 27, 12
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0006
+  rotate: true
+  xy: 1611, 207
+  size: 240, 192
+  orig: 277, 213
+  offset: 21, 12
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0007
+  rotate: false
+  xy: 1511, 2
+  size: 247, 190
+  orig: 277, 213
+  offset: 17, 11
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0008
+  rotate: true
+  xy: 1417, 194
+  size: 253, 192
+  orig: 277, 213
+  offset: 14, 10
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0009
+  rotate: true
+  xy: 1034, 189
+  size: 258, 190
+  orig: 277, 213
+  offset: 11, 8
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0010
+  rotate: true
+  xy: 841, 188
+  size: 259, 191
+  orig: 277, 213
+  offset: 10, 8
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0011
+  rotate: true
+  xy: 451, 186
+  size: 261, 193
+  orig: 277, 213
+  offset: 8, 6
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0012
+  rotate: true
+  xy: 255, 186
+  size: 261, 194
+  orig: 277, 213
+  offset: 8, 5
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0013
+  rotate: true
+  xy: 646, 187
+  size: 260, 193
+  orig: 277, 213
+  offset: 8, 5
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0015
+  rotate: true
+  xy: 1226, 190
+  size: 257, 189
+  orig: 277, 213
+  offset: 10, 8
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0017
+  rotate: false
+  xy: 170, 7
+  size: 248, 165
+  orig: 277, 213
+  offset: 16, 30
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0019
+  rotate: false
+  xy: 1107, 33
+  size: 98, 154
+  orig: 277, 213
+  offset: 160, 36
+  index: -1
+guang/guanghuan_lizi/guanghuan_lizi0021
+  rotate: false
+  xy: 1207, 48
+  size: 82, 139
+  orig: 277, 213
+  offset: 169, 44
+  index: -1
+guang/guangsu_shi
+  rotate: true
+  xy: 797, 21
+  size: 164, 155
+  orig: 174, 166
+  offset: 5, 5
+  index: -1
+guang/guangsu_xu
+  rotate: false
+  xy: 1931, 366
+  size: 81, 81
+  orig: 84, 84
+  offset: 1, 2
+  index: -1
+guang/kuokai_huan_xubian
+  rotate: false
+  xy: 2, 174
+  size: 251, 273
+  orig: 342, 340
+  offset: 30, 29
+  index: -1

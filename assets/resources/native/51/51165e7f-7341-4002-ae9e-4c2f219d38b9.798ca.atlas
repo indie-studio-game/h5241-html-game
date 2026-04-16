@@ -1,0 +1,27 @@
+
+bianyuantexiao.png
+size: 166,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 130, 31
+  size: 34, 34
+  orig: 38, 38
+  offset: 2, 2
+  index: -1
+jian
+  rotate: true
+  xy: 2, 2
+  size: 63, 126
+  orig: 208, 261
+  offset: 76, 66
+  index: -1
+upgrade@2x
+  rotate: false
+  xy: 130, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1

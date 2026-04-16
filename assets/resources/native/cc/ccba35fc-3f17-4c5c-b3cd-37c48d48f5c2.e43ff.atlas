@@ -1,0 +1,314 @@
+
+souye.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Back_Lower
+  rotate: false
+  xy: 2, 422
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+Arm_Back_Upper
+  rotate: true
+  xy: 331, 446
+  size: 39, 58
+  orig: 42, 60
+  offset: 1, 1
+  index: -1
+Arm_Front_Lower
+  rotate: false
+  xy: 157, 411
+  size: 49, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Arm_Front_Upper
+  rotate: true
+  xy: 306, 397
+  size: 47, 58
+  orig: 49, 59
+  offset: 0, 1
+  index: -1
+Body
+  rotate: true
+  xy: 194, 338
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+Body_Back
+  rotate: true
+  xy: 424, 386
+  size: 51, 58
+  orig: 51, 59
+  offset: 0, 1
+  index: -1
+Body_Front
+  rotate: true
+  xy: 123, 354
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+Brow_Back
+  rotate: true
+  xy: 111, 496
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+Brow_Front
+  rotate: false
+  xy: 194, 493
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+Colar_Back
+  rotate: false
+  xy: 358, 487
+  size: 34, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Colar_front
+  rotate: false
+  xy: 394, 487
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+Curl_Back
+  rotate: true
+  xy: 2, 470
+  size: 29, 38
+  orig: 32, 39
+  offset: 1, 1
+  index: -1
+Curl_Front
+  rotate: false
+  xy: 465, 480
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+Ear
+  rotate: true
+  xy: 334, 490
+  size: 18, 22
+  orig: 21, 25
+  offset: 2, 1
+  index: -1
+Eye_Back_1
+  rotate: true
+  xy: 56, 500
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+Eye_Front_1
+  rotate: false
+  xy: 243, 492
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Face_Base
+  rotate: true
+  xy: 59, 359
+  size: 54, 62
+  orig: 58, 62
+  offset: 2, 0
+  index: -1
+Hand_Back_1
+  rotate: false
+  xy: 287, 452
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+Hand_Back_1_Front
+  rotate: false
+  xy: 264, 491
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+Hand_Back_2
+  rotate: false
+  xy: 53, 417
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+Hand_Back_3
+  rotate: false
+  xy: 366, 389
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Hand_Back_4
+  rotate: false
+  xy: 208, 409
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Hand_Front_1
+  rotate: false
+  xy: 254, 407
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Hand_Front_2
+  rotate: false
+  xy: 391, 441
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Hand_Front_3
+  rotate: false
+  xy: 2, 363
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+Leg_Back_Lower
+  rotate: true
+  xy: 123, 459
+  size: 33, 51
+  orig: 33, 53
+  offset: 0, 1
+  index: -1
+Leg_Back_Upper
+  rotate: true
+  xy: 435, 439
+  size: 39, 63
+  orig: 39, 64
+  offset: 0, 1
+  index: -1
+Leg_Front_Lower
+  rotate: true
+  xy: 176, 456
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+Leg_Front_Upper
+  rotate: true
+  xy: 229, 454
+  size: 35, 56
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 13, 503
+  size: 16, 5
+  orig: 18, 5
+  offset: 1, 0
+  index: -1
+Mouth_2
+  rotate: false
+  xy: 128, 495
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Mouth_3
+  rotate: false
+  xy: 216, 493
+  size: 25, 15
+  orig: 26, 18
+  offset: 0, 2
+  index: -1
+Mouth_4
+  rotate: false
+  xy: 310, 491
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+Mouth_5
+  rotate: false
+  xy: 2, 505
+  size: 9, 3
+  orig: 10, 6
+  offset: 1, 1
+  index: -1
+Mouth_6
+  rotate: false
+  xy: 41, 501
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+Mouth_8
+  rotate: false
+  xy: 431, 482
+  size: 32, 26
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Nec
+  rotate: true
+  xy: 42, 466
+  size: 32, 43
+  orig: 33, 43
+  offset: 1, 0
+  index: -1
+Nose
+  rotate: true
+  xy: 174, 494
+  size: 14, 18
+  orig: 19, 21
+  offset: 4, 1
+  index: -1
+Nose_2
+  rotate: true
+  xy: 154, 495
+  size: 13, 18
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 102, 415
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+PonyTale
+  rotate: true
+  xy: 87, 461
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1
+Pupil
+  rotate: true
+  xy: 31, 502
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+assault_weapon_unc_1
+  rotate: false
+  xy: 269, 287
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 73, 500
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1

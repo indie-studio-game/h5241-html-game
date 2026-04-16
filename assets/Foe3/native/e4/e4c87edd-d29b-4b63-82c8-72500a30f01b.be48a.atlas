@@ -1,0 +1,48 @@
+
+jylaixi.png
+size: 1118,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daochu_2/3 (1)
+  rotate: true
+  xy: 686, 162
+  size: 134, 126
+  orig: 136, 128
+  offset: 1, 1
+  index: -1
+daochu_2/3 (2)
+  rotate: false
+  xy: 2, 298
+  size: 1114, 87
+  orig: 1114, 87
+  offset: 0, 0
+  index: -1
+daochu_2/3 (3)
+  rotate: false
+  xy: 2, 6
+  size: 852, 38
+  orig: 852, 38
+  offset: 0, 0
+  index: -1
+daochu_2/glow_xu
+  rotate: false
+  xy: 2, 46
+  size: 253, 250
+  orig: 253, 250
+  offset: 0, 0
+  index: -1
+daochu_2/lizi
+  rotate: false
+  xy: 856, 2
+  size: 247, 294
+  orig: 247, 294
+  offset: 0, 0
+  index: -1
+daochu_2/ui
+  rotate: false
+  xy: 257, 143
+  size: 427, 153
+  orig: 427, 153
+  offset: 0, 0
+  index: -1

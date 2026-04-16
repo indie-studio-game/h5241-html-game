@@ -1,0 +1,111 @@
+
+bosstexiao.png
+size: 493,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/buff00001
+  rotate: true
+  xy: 320, 281
+  size: 90, 164
+  orig: 108, 191
+  offset: 8, 12
+  index: -1
+effect/buff00002
+  rotate: true
+  xy: 320, 189
+  size: 90, 162
+  orig: 108, 191
+  offset: 8, 14
+  index: -1
+effect/buff00003
+  rotate: true
+  xy: 2, 98
+  size: 90, 162
+  orig: 108, 191
+  offset: 8, 14
+  index: -1
+effect/buff00004
+  rotate: true
+  xy: 329, 96
+  size: 91, 161
+  orig: 108, 191
+  offset: 7, 15
+  index: -1
+effect/buff00005
+  rotate: true
+  xy: 161, 3
+  size: 92, 151
+  orig: 108, 191
+  offset: 7, 15
+  index: -1
+effect/buff00006
+  rotate: true
+  xy: 314, 2
+  size: 92, 155
+  orig: 108, 191
+  offset: 8, 12
+  index: -1
+effect/buff00007
+  rotate: true
+  xy: 159, 190
+  size: 91, 159
+  orig: 108, 191
+  offset: 9, 12
+  index: -1
+effect/buff00008
+  rotate: true
+  xy: 2, 5
+  size: 91, 157
+  orig: 108, 191
+  offset: 10, 14
+  index: -1
+effect/buff00009
+  rotate: true
+  xy: 2, 192
+  size: 90, 155
+  orig: 108, 191
+  offset: 11, 13
+  index: -1
+effect/buff00010
+  rotate: true
+  xy: 162, 283
+  size: 89, 156
+  orig: 108, 191
+  offset: 12, 13
+  index: -1
+effect/buff00011
+  rotate: true
+  xy: 329, 373
+  size: 84, 162
+  orig: 108, 191
+  offset: 12, 12
+  index: -1
+effect/buff00012
+  rotate: true
+  xy: 2, 374
+  size: 83, 164
+  orig: 108, 191
+  offset: 12, 12
+  index: -1
+effect/buff00013
+  rotate: true
+  xy: 168, 374
+  size: 83, 159
+  orig: 108, 191
+  offset: 13, 12
+  index: -1
+effect/buff00014
+  rotate: true
+  xy: 2, 284
+  size: 88, 158
+  orig: 108, 191
+  offset: 9, 12
+  index: -1
+effect/buff00015
+  rotate: true
+  xy: 166, 97
+  size: 90, 161
+  orig: 108, 191
+  offset: 8, 12
+  index: -1

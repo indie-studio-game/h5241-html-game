@@ -1,0 +1,62 @@
+
+zjc.png
+size: 982,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baideng
+  rotate: false
+  xy: 2, 2
+  size: 273, 219
+  orig: 314, 241
+  offset: 19, 0
+  index: -1
+baoxiangang
+  rotate: true
+  xy: 826, 35
+  size: 186, 46
+  orig: 186, 46
+  offset: 0, 0
+  index: -1
+beitai
+  rotate: false
+  xy: 874, 122
+  size: 106, 99
+  orig: 106, 99
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 277, 19
+  size: 181, 202
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 460, 19
+  size: 181, 202
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 643, 19
+  size: 181, 202
+  orig: 181, 202
+  offset: 0, 0
+  index: -1
+lunying
+  rotate: false
+  xy: 939, 102
+  size: 17, 18
+  orig: 17, 20
+  offset: 0, 1
+  index: -1
+zuohou
+  rotate: false
+  xy: 874, 2
+  size: 63, 118
+  orig: 63, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+shibai.png
+size: 527,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/failed/failed2
+  rotate: false
+  xy: 2, 2
+  size: 245, 67
+  orig: 245, 67
+  offset: 0, 0
+  index: -1
+images/failed/glow_an
+  rotate: false
+  xy: 288, 13
+  size: 237, 70
+  orig: 237, 70
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00014
+  rotate: false
+  xy: 383, 445
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00015
+  rotate: false
+  xy: 383, 385
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00016
+  rotate: false
+  xy: 383, 325
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00017
+  rotate: false
+  xy: 383, 265
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00018
+  rotate: false
+  xy: 383, 205
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00019
+  rotate: false
+  xy: 383, 145
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00020
+  rotate: false
+  xy: 383, 85
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00021
+  rotate: false
+  xy: 2, 71
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/lizi/lizi_00022
+  rotate: false
+  xy: 145, 71
+  size: 141, 58
+  orig: 141, 58
+  offset: 0, 0
+  index: -1
+images/xian/xian_00012
+  rotate: false
+  xy: 2, 471
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00013
+  rotate: false
+  xy: 2, 437
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00014
+  rotate: false
+  xy: 2, 403
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00015
+  rotate: false
+  xy: 2, 369
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00016
+  rotate: false
+  xy: 2, 335
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00017
+  rotate: false
+  xy: 2, 301
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00018
+  rotate: false
+  xy: 2, 267
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00019
+  rotate: false
+  xy: 2, 233
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00020
+  rotate: false
+  xy: 2, 199
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00021
+  rotate: false
+  xy: 2, 165
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1
+images/xian/xian_00022
+  rotate: false
+  xy: 2, 131
+  size: 379, 32
+  orig: 379, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+dunpai.png
+size: 1197,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eft/attack/gwsl_attack_sq/1
+  rotate: false
+  xy: 2, 39
+  size: 246, 215
+  orig: 248, 217
+  offset: 1, 1
+  index: -1
+eft/attack/gwsl_attack_sq/2
+  rotate: false
+  xy: 2, 256
+  size: 282, 282
+  orig: 284, 284
+  offset: 1, 1
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00000
+  rotate: true
+  xy: 784, 4
+  size: 173, 165
+  orig: 200, 200
+  offset: 18, 18
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00002
+  rotate: true
+  xy: 829, 182
+  size: 173, 165
+  orig: 200, 200
+  offset: 18, 18
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00004
+  rotate: false
+  xy: 609, 11
+  size: 173, 166
+  orig: 200, 200
+  offset: 18, 17
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00006
+  rotate: false
+  xy: 286, 185
+  size: 182, 171
+  orig: 200, 200
+  offset: 9, 10
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00008
+  rotate: true
+  xy: 434, 2
+  size: 181, 173
+  orig: 200, 200
+  offset: 10, 8
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00010
+  rotate: false
+  xy: 250, 9
+  size: 182, 174
+  orig: 200, 200
+  offset: 9, 8
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00012
+  rotate: false
+  xy: 645, 179
+  size: 182, 176
+  orig: 200, 200
+  offset: 9, 9
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00014
+  rotate: false
+  xy: 660, 357
+  size: 182, 181
+  orig: 200, 200
+  offset: 9, 8
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00016
+  rotate: false
+  xy: 286, 358
+  size: 185, 180
+  orig: 200, 200
+  offset: 9, 9
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00018
+  rotate: false
+  xy: 473, 359
+  size: 185, 179
+  orig: 200, 200
+  offset: 9, 9
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00020
+  rotate: false
+  xy: 844, 360
+  size: 181, 178
+  orig: 200, 200
+  offset: 11, 10
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00022
+  rotate: false
+  xy: 470, 185
+  size: 173, 171
+  orig: 200, 200
+  offset: 18, 14
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00024
+  rotate: true
+  xy: 1027, 365
+  size: 173, 168
+  orig: 200, 200
+  offset: 18, 15
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00026
+  rotate: true
+  xy: 951, 7
+  size: 173, 166
+  orig: 200, 200
+  offset: 18, 17
+  index: -1
+eft/attack/gwsl_attack_sq/gwsl_attack_sq_00028
+  rotate: true
+  xy: 996, 185
+  size: 173, 165
+  orig: 200, 200
+  offset: 18, 18
+  index: -1

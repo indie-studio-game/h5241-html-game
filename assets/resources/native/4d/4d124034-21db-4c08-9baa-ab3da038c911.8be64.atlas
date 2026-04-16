@@ -1,0 +1,293 @@
+
+pifu2.png
+size: 832,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base/Arm_Lower_Back
+  rotate: true
+  xy: 555, 21
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Base/Arm_Lower_Front
+  rotate: true
+  xy: 694, 25
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+Base/Arm_Upper_Back
+  rotate: true
+  xy: 517, 19
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+Base/Arm_Upper_Front
+  rotate: true
+  xy: 758, 80
+  size: 40, 38
+  orig: 42, 41
+  offset: 1, 2
+  index: -1
+Base/Belt
+  rotate: true
+  xy: 587, 21
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+Base/Body
+  rotate: false
+  xy: 311, 75
+  size: 65, 96
+  orig: 65, 96
+  offset: 0, 0
+  index: -1
+Base/Glasses
+  rotate: true
+  xy: 447, 16
+  size: 60, 27
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+Base/Hand_Back_2
+  rotate: true
+  xy: 791, 131
+  size: 40, 33
+  orig: 43, 37
+  offset: 1, 2
+  index: -1
+Base/Hand_Back_2_Front
+  rotate: true
+  xy: 385, 37
+  size: 39, 19
+  orig: 42, 21
+  offset: 1, 1
+  index: -1
+Base/Hand_Front_2
+  rotate: true
+  xy: 749, 122
+  size: 49, 40
+  orig: 51, 43
+  offset: 1, 1
+  index: -1
+Base/Leg_Back_Lower
+  rotate: false
+  xy: 348, 12
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+Base/Leg_Back_Upper
+  rotate: false
+  xy: 406, 3
+  size: 39, 73
+  orig: 41, 75
+  offset: 1, 1
+  index: -1
+Base/Leg_Front_Lower
+  rotate: true
+  xy: 610, 22
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+Base/Leg_Front_Upper
+  rotate: false
+  xy: 476, 19
+  size: 39, 57
+  orig: 39, 58
+  offset: 0, 1
+  index: -1
+Base/nec
+  rotate: false
+  xy: 810, 62
+  size: 20, 27
+  orig: 23, 29
+  offset: 2, 1
+  index: -1
+Brows_1
+  rotate: true
+  xy: 758, 38
+  size: 40, 11
+  orig: 41, 11
+  offset: 1, 0
+  index: -1
+Brows_2
+  rotate: false
+  xy: 361, 3
+  size: 43, 7
+  orig: 43, 7
+  offset: 0, 0
+  index: -1
+Curl_Back
+  rotate: false
+  xy: 630, 86
+  size: 36, 85
+  orig: 39, 87
+  offset: 1, 1
+  index: -1
+Curl_Front1
+  rotate: false
+  xy: 721, 78
+  size: 35, 41
+  orig: 38, 45
+  offset: 2, 2
+  index: -1
+Ear
+  rotate: false
+  xy: 637, 5
+  size: 29, 15
+  orig: 31, 18
+  offset: 1, 2
+  index: -1
+Eyes_1
+  rotate: false
+  xy: 590, 3
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 495, 2
+  size: 46, 15
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+Eyes_3
+  rotate: false
+  xy: 714, 3
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+Eyes_4
+  rotate: false
+  xy: 630, 78
+  size: 44, 6
+  orig: 44, 7
+  offset: 0, 0
+  index: -1
+Eyes_5
+  rotate: false
+  xy: 668, 6
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+Eyes_6
+  rotate: false
+  xy: 543, 2
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+Eyes_7
+  rotate: false
+  xy: 447, 3
+  size: 46, 11
+  orig: 46, 16
+  offset: 0, 1
+  index: -1
+FX_Jump/R.Back0001
+  rotate: true
+  xy: 761, 2
+  size: 34, 36
+  orig: 46, 54
+  offset: 2, 18
+  index: -1
+FX_Jump/R.Back0002
+  rotate: true
+  xy: 799, 2
+  size: 36, 24
+  orig: 46, 54
+  offset: 5, 0
+  index: -1
+FX_Jump/R.Back0003
+  rotate: false
+  xy: 726, 27
+  size: 30, 49
+  orig: 46, 54
+  offset: 0, 5
+  index: -1
+FX_Jump/R_Front0001
+  rotate: true
+  xy: 771, 40
+  size: 38, 37
+  orig: 46, 54
+  offset: 8, 17
+  index: -1
+FX_Jump/R_Front0002
+  rotate: false
+  xy: 711, 121
+  size: 36, 50
+  orig: 46, 54
+  offset: 10, 0
+  index: -1
+FX_Jump/R_Front0003
+  rotate: true
+  xy: 798, 91
+  size: 38, 13
+  orig: 46, 54
+  offset: 3, 41
+  index: -1
+Gun_GrabUpper_Ability
+  rotate: false
+  xy: 2, 6
+  size: 265, 165
+  orig: 265, 165
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 269, 3
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+Mouth_1
+  rotate: false
+  xy: 348, 2
+  size: 11, 8
+  orig: 13, 10
+  offset: 1, 1
+  index: -1
+Nose
+  rotate: true
+  xy: 385, 26
+  size: 9, 10
+  orig: 12, 13
+  offset: 1, 2
+  index: -1
+Sniper_weapon_unc_1
+  rotate: false
+  xy: 378, 78
+  size: 250, 93
+  orig: 250, 93
+  offset: 0, 0
+  index: -1
+Tale
+  rotate: false
+  xy: 269, 74
+  size: 40, 97
+  orig: 41, 97
+  offset: 1, 0
+  index: -1
+Tale2
+  rotate: false
+  xy: 668, 90
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 676, 78
+  size: 43, 10
+  orig: 43, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+tanke.png
+size: 276,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baideng
+  rotate: true
+  xy: 2, 68
+  size: 196, 156
+  orig: 224, 172
+  offset: 13, 0
+  index: -1
+c
+  rotate: false
+  xy: 160, 141
+  size: 113, 123
+  orig: 113, 127
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 172, 10
+  size: 19, 41
+  orig: 20, 41
+  offset: 1, 0
+  index: -1
+lidai3
+  rotate: true
+  xy: 2, 2
+  size: 27, 168
+  orig: 27, 168
+  offset: 0, 0
+  index: -1
+lu1
+  rotate: true
+  xy: 2, 31
+  size: 35, 135
+  orig: 36, 136
+  offset: 1, 0
+  index: -1
+lu2
+  rotate: true
+  xy: 139, 31
+  size: 35, 135
+  orig: 35, 136
+  offset: 0, 0
+  index: -1
+lunying
+  rotate: true
+  xy: 215, 5
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+p1
+  rotate: true
+  xy: 215, 94
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+p2
+  rotate: true
+  xy: 160, 79
+  size: 60, 53
+  orig: 67, 54
+  offset: 1, 1
+  index: -1
+paot
+  rotate: true
+  xy: 227, 9
+  size: 20, 11
+  orig: 21, 14
+  offset: 0, 0
+  index: -1

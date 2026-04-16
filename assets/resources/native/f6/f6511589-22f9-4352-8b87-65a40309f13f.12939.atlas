@@ -1,0 +1,90 @@
+
+cw6.png
+size: 135,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 73, 307
+  size: 60, 58
+  orig: 81, 73
+  offset: 9, 8
+  index: -1
+2
+  rotate: false
+  xy: 2, 367
+  size: 124, 151
+  orig: 135, 162
+  offset: 10, 1
+  index: -1
+4
+  rotate: true
+  xy: 68, 2
+  size: 41, 42
+  orig: 43, 45
+  offset: 1, 2
+  index: -1
+goldcoin/1
+  rotate: false
+  xy: 2, 140
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+goldcoin/2
+  rotate: true
+  xy: 70, 109
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+goldcoin/3
+  rotate: false
+  xy: 73, 240
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+goldcoin/4
+  rotate: true
+  xy: 2, 96
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+goldcoin/5
+  rotate: true
+  xy: 2, 19
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+goldcoin/6
+  rotate: true
+  xy: 2, 47
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+goldcoin/7
+  rotate: false
+  xy: 73, 173
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+goldcoin/8
+  rotate: true
+  xy: 70, 45
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+j1
+  rotate: true
+  xy: 2, 206
+  size: 159, 69
+  orig: 161, 71
+  offset: 1, 1
+  index: -1
